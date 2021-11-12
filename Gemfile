@@ -8,6 +8,8 @@ gem 'rails', '~> 6.1.4', '>= 6.1.4.1'
 
 gem 'devise'
 
+gem 'stripe'
+
 gem 'twitter-bootstrap-rails'
 
 gem 'devise-bootstrap-views'
